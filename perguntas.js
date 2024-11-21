@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Filmes',
+    'Qual o filme em que os três personagens principas são Bruxos??',
+    'Harry Potter'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Música',
+    'Qual o nome da boiadeira mais conhecida no Brasil?',
+    'A boiadeira mais conhecida é a Ana Casatela'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Série',
+    'Qual série mais conhecida por ter guerras e dragãoes?',
+    'A série é Game of Thrones '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Biologia',
+    'Qual o maior orgão do corpo humano?',
+    'Muitas pessoas não  sabem mai é a Pele'
 )
